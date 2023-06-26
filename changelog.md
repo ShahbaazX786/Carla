@@ -1,3 +1,10 @@
+CL-0.0.3: Search Component.
+- Added searchmanufacturer logic for filtering car manufacturer and setting it using set manufacturer use state.
+- Added utils folder with car data fetching logic from rapidAPI endpoint.
+- Updated empty data check for cars api response array.
+- Added card component for car display.
+- Added new interface(types) for carprops.
+
 CL-0.0.2: Hero Component.
 >Stage 1
 - Added Hero component
